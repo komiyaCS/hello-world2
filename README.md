@@ -1,2 +1,3 @@
 # hello-world2
-initial test2なのです
+
+initial test2を改変するのです
